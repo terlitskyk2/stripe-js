@@ -106,3 +106,4 @@ one. When you call `loadStripe`, it will use the existing script tag.
 If you would like to contribute to React Stripe.js, please make sure to read our
 [contributor guidelines](CONTRIBUTING.md).
 # stripe-js
+# react-stripe-js
